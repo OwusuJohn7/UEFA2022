@@ -1,4 +1,5 @@
 FIFA 2022 Mobile App
+
 The FIFA 2022 Mobile App is a cross-platform mobile application developed for iOS and Android that allows users to access various features of the FIFA 2022 game from their mobile devices. This README document provides information on how to install, use, and contribute to the project.
 
 Features
@@ -18,7 +19,7 @@ License
 This project is licensed under the MIT License. Please see the LICENSE file for more information.
 
 Contact
-If you have any questions or issues, please contact us at fifa2022app@example.com.deo clips
+If you have any questions or issues, please contact us at fifa2022@qareda.io clips
 Fantasy football league integration
 Social media sharing for users to share their favorite moments from the game
 Installation
